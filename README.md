@@ -1,2 +1,6 @@
 # Space-Maze
-This program is a maze. Can you get out?
+[CODED IN PYTHON]
+
+This program is a maze. Can you get out alive?
+
+Goodluck.
